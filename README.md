@@ -2,7 +2,7 @@
 Dynamically change the screen refresh rate based on system power status.
 
 # Usage.
-1. Download the latest release.
+1. Download the latest release from [GitHub Release](https://github.com/Aetopia/RefreshRatePowerManagement/releases/latest).
 2. Run the program.
 3. The refresh rate will dynamically change based on the AC adapter status for your primary monitor.
     |AC Adapter Status|Refresh Rate|
